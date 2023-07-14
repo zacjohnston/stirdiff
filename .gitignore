@@ -1,0 +1,5 @@
+/temp
+/.temp
+.ipynb_checkpoints/
+*.dat
+*.csv
