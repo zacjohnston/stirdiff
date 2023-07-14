@@ -3,3 +3,6 @@
 .ipynb_checkpoints/
 *.dat
 *.csv
+/plots
+/stir
+/3d
